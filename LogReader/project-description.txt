@@ -1,0 +1,7 @@
+Log Reader
+
+Main authors: Erik Billing
+
+Libraries for working with logs produces by Log4j. 
+
+Dependent on projects: generic. 
