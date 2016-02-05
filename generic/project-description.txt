@@ -1,0 +1,7 @@
+This project is intended for generic source code that could be of use within any part of INTRO. 
+
+You are encouraged to add your utility classes and other generic source to this project. However, if you do, remember that classes that you created may be used by others. Modify existing code with care and document source as well as possible. 
+
+Please also check so that a certain class or method does not already exists before adding new. 
+
+Authors: Erik Billing (Java libs).
