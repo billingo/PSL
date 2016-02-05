@@ -1,0 +1,7 @@
+Psl Lokarria Client
+
+Main authors: Erik Billing
+
+Libraries for integrating PSL with MRDS through Lokarria
+
+Dependent on projects: generic, LogReader, LokarriaLogReader, LokarriaBase, ReactiveLokarriaClient, HPL. 
